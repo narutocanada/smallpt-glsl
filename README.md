@@ -1,2 +1,3 @@
-# smallpt-glsl
-smallpt glsl
+original: http://www.kevinbeason.com/smallpt/
+only compiles with linux environment.
+rm a.out t.ppm ; gcc gbm5.c -lgbm -lEGL -lGL -lGLU ; ./a.out ; display t.ppm
